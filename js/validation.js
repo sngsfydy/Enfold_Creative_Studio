@@ -1,7 +1,7 @@
 $(function () {
     $("#submit").click(function (event) {
-        event.preventDefault()
 
+        event.preventDefault()
 
         // name field validation
         $("#name").removeClass("is-valid is-invalid");

@@ -302,6 +302,10 @@ body {
     color: #333333;
     margin-bottom: 50px;
 }
+.section-6 .contact-form{
+    position: relative;
+    z-index: 999;
+}
 .section-6 .contact-form input , .section-6 .contact-form textarea{
     background-color: #f8f8f8;
     color: #333333;
